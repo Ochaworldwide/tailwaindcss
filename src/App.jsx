@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="bg-[url(./assets/Rectangle.png)] w-full h-[70rem] pt-36 bg-no-repeat bg-cover">
-      <div className="bg-white mx-auto lg:flex border-2 rounded border-sky-500 w-8/12  box-border  ">
+      <div className="bg-white mx-auto lg:flex border-2 rounded border-sky-500 sm:w-8/12 w-full  box-border  ">
         {/* <img
         src={picsman}
         alt=""

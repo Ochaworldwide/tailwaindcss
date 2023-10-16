@@ -13,7 +13,7 @@ function AccordionBasicExample() {
   };
   return (
     <>
-      <div id="accordionExample">
+      <div id="accordionExample" className="w-full">
         <div className="border rounded border-purple-200 bg-white mb-3">
           <h2 className="mb-0" id="headingOne">
             <button
