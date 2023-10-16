@@ -67,8 +67,8 @@ function App() {
           </p>
         </div>
         <div className="container pl-10 pr-10 pt-10">
-          <h1 className="font-bold text-2xl">Frequently Asked Questions</h1>
-          <p className="text-gray-600 text-base font-bold mb-20">
+          <h1 className="font-bold text-2xl text-center">Frequently Asked Questions</h1>
+          <p className="text-gray-600 text-base font-bold mb-20 text-center">
             These are few questions people frequently ask
           </p>
 
